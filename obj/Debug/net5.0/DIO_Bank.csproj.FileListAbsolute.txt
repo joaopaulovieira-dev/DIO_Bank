@@ -1,0 +1,16 @@
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\bin\Debug\net5.0\DIO_Bank.exe
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\bin\Debug\net5.0\DIO_Bank.deps.json
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.json
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.dev.json
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\bin\Debug\net5.0\DIO_Bank.dll
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\bin\Debug\net5.0\ref\DIO_Bank.dll
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\bin\Debug\net5.0\DIO_Bank.pdb
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csproj.AssemblyReference.cache
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfoInputs.cache
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfo.cs
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csproj.CoreCompileInputs.cache
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.dll
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\ref\DIO_Bank.dll
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.pdb
+D:\OneDrive\Development\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO_Bank\obj\Debug\net5.0\DIO_Bank.genruntimeconfig.cache
